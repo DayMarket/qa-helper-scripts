@@ -1,0 +1,235 @@
+,ID,PROJECT_NAME,NAME,DURATION,CREATED,STARTED_BY,PASSED,FAILED,SKIPPED,BROKEN
+0,10865,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2382,37.196616666666664,2023-04-25 02:02:22,system,113,27,4,12
+1,10807,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2380,40.65315,2023-04-24 02:02:21,system,122,20,4,10
+2,10797,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2379,37.60391666666667,2023-04-23 02:02:18,system,116,22,4,14
+3,10788,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2378,44.158750000000005,2023-04-22 02:02:24,system,120,22,4,10
+4,10777,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2377,44.1875,2023-04-21 02:02:23,system,120,21,4,11
+5,10713,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2372,40.66888333333333,2023-04-20 02:02:30,system,118,25,4,9
+6,10655,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2364,28.831616666666665,2023-04-19 02:02:27,system,118,25,4,9
+7,10612,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2360,21.475966666666668,2023-04-18 02:02:25,system,120,18,4,14
+8,10585,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2356,26.624683333333333,2023-04-17 15:05:00,system,118,23,4,11
+9,10548,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2354,20.974633333333333,2023-04-17 02:02:16,system,117,20,4,15
+10,10534,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2353,20.045283333333334,2023-04-16 02:02:19,system,122,16,4,14
+11,10524,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2352,20.18406666666667,2023-04-15 02:02:27,system,120,19,4,13
+12,10463,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2351,21.72665,2023-04-14 02:02:31,system,125,16,4,11
+13,10382,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2349,19.5196,2023-04-13 02:06:19,system,129,14,4,9
+14,10320,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2343,18.752183333333335,2023-04-12 02:02:49,system,114,19,4,19
+15,10277,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2342,18.574749999999998,2023-04-11 02:02:36,system,123,16,4,12
+16,10275,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2341,26.830499999999997,2023-04-10 19:23:25,system,116,25,4,11
+17,10251,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2339,62.15221666666666,2023-04-10 13:55:23,system,101,27,4,24
+18,10219,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2338,24.235116666666666,2023-04-10 02:02:32,system,105,35,4,12
+19,10208,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2337,23.6336,2023-04-09 02:02:25,system,105,36,4,11
+20,10187,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2336,23.0024,2023-04-08 02:02:37,system,111,31,4,10
+21,10132,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2335,25.4769,2023-04-07 02:02:25,system,107,34,4,11
+22,10084,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2334,28.03375,2023-04-06 02:02:23,system,107,36,4,9
+23,10055,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2333,25.466183333333333,2023-04-05 02:02:29,system,100,41,4,11
+24,10026,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2329,40.831,2023-04-04 02:02:07,system,41,101,4,10
+25,9975,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2322,48.97598333333334,2023-04-03 02:02:24,system,0,138,4,14
+26,9967,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2321,50.21373333333334,2023-04-02 02:02:07,system,0,139,4,13
+27,9957,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2320,22.894466666666666,2023-04-01 02:02:24,system,110,32,4,10
+28,9921,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2317,25.498216666666668,2023-03-31 02:02:33,system,103,37,4,12
+29,9885,Sellers: Web,KazanExpress/ke-auto-tests - Run Sellers Tests #test #2313,2.572566666666667,2023-03-30 16:15:39,system,106,33,4,13
+30,10897,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #250,10.626616666666667,2023-04-25 13:26:32,system,21,10,1,1
+31,10896,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #249,10.599683333333333,2023-04-25 13:08:28,system,23,9,1,0
+32,10895,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #248,9.633333333333333,2023-04-25 12:55:10,system,22,10,1,0
+33,10894,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #247,9.803983333333333,2023-04-25 12:35:44,system,23,8,1,1
+34,10883,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #246,11.245683333333334,2023-04-25 10:45:19,system,18,14,1,0
+35,10881,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #245,9.677333333333333,2023-04-25 10:30:38,system,22,10,1,0
+36,10880,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #244,8.728116666666667,2023-04-25 10:04:30,system,25,7,1,0
+37,10879,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #243,7.226816666666666,2023-04-25 09:51:34,system,30,2,1,0
+38,10871,Customers: Web,KazanExpress/ke-auto-tests - Run Customers Regress and Mobile Tests #test #22,46.37668333333333,2023-04-25 03:37:12,system,150,35,25,1
+39,10870,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #242,8.376783333333334,2023-04-25 03:28:04,system,27,5,1,0
+40,10866,Customers: Web,KazanExpress/ke-auto-tests - Run Customers Analytics Tests #test #22,25.201833333333333,2023-04-25 03:02:08,system,60,18,9,2
+41,10850,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #241,6.288133333333334,2023-04-24 17:50:48,system,27,4,1,0
+42,10843,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #240,9.6846,2023-04-24 16:49:14,system,26,4,1,2
+43,10839,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #239,8.95055,2023-04-24 16:04:40,system,27,4,1,0
+44,10834,Customers: Web,KazanExpress/ke-auto-tests - Run Customers Regress and Mobile Tests #test #21,52.42985,2023-04-24 13:13:58,system,152,43,17,2
+45,10833,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #238,179.65006666666667,2023-04-24 12:58:55,system,27,6,3,0
+46,10832,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #237,6.748883333333334,2023-04-24 12:10:03,system,30,2,1,0
+47,10822,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #236,6.8364,2023-04-24 10:12:18,system,27,4,1,0
+48,10811,Customers: Web,KazanExpress/ke-auto-tests - Run Customers Regress and Mobile Tests #test #20,46.13851666666667,2023-04-24 03:33:34,system,146,29,24,12
+49,10810,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #235,8.413433333333334,2023-04-24 03:24:27,system,28,4,1,0
+50,10808,Customers: Web,KazanExpress/ke-auto-tests - Run Customers Analytics Tests #test #21,21.654816666666665,2023-04-24 03:01:58,system,53,15,20,2
+51,10801,Customers: Web,KazanExpress/ke-auto-tests - Run Customers Regress and Mobile Tests #test #19,51.67733333333333,2023-04-23 03:37:42,system,147,38,24,2
+52,10800,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #234,8.203133333333334,2023-04-23 03:28:43,system,25,6,1,0
+53,10798,Customers: Web,KazanExpress/ke-auto-tests - Run Customers Analytics Tests #test #20,26.09685,2023-04-23 03:01:53,system,52,17,20,1
+54,10792,Customers: Web,KazanExpress/ke-auto-tests - Run Customers Regress and Mobile Tests #test #18,43.323049999999995,2023-04-22 03:35:19,system,159,26,24,2
+55,10791,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #233,10.193883333333334,2023-04-22 03:24:27,system,26,6,1,0
+56,10789,Customers: Web,KazanExpress/ke-auto-tests - Run Customers Analytics Tests #test #19,21.63971666666667,2023-04-22 03:02:01,system,55,12,20,3
+57,10787,Customers: Web,KazanExpress/ke-auto-tests - Run Customers Regress and Mobile Tests #test #17,22.75336666666667,2023-04-21 23:02:46,system,87,14,21,1
+58,10786,Customers: Web,KazanExpress/ke-auto-tests - Run Customers UAT Tests #test #232,21.117733333333334,2023-04-21 12:14:33,system,28,7,2,0
+59,10781,Customers: Web,KazanExpress/ke-auto-tests - Run Customers Regress and Mobile Tests #test #16,50.61273333333334,2023-04-21 03:33:29,system,151,34,24,2
+60,10875,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #863,12.527283333333333,2023-04-25 07:31:51,system,114,44,0,1
+61,10816,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #862,13.438966666666666,2023-04-24 07:32:19,system,110,47,0,1
+62,10805,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #861,15.099283333333334,2023-04-23 07:31:54,system,110,48,0,1
+63,10796,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #860,12.716800000000001,2023-04-22 07:31:55,system,113,45,0,1
+64,10785,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #859,12.898133333333334,2023-04-21 07:32:09,system,112,46,0,1
+65,10721,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #858,11.998483333333333,2023-04-20 07:32:11,system,113,45,0,1
+66,10665,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #857,18.176883333333333,2023-04-19 07:32:13,system,104,53,0,1
+67,10620,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #856,18.190083333333334,2023-04-18 07:31:53,system,109,48,0,2
+68,10607,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #855,18.956666666666667,2023-04-17 17:00:19,system,104,54,0,1
+69,10574,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #854,15.668166666666668,2023-04-17 12:09:20,system,101,57,0,1
+70,10559,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #853,19.833633333333335,2023-04-17 07:32:14,system,84,74,0,1
+71,10542,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #852,18.68715,2023-04-16 07:31:30,system,88,70,0,1
+72,10532,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #851,20.127299999999998,2023-04-15 07:31:30,system,86,71,0,2
+73,10471,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #850,19.361416666666667,2023-04-14 07:31:53,system,91,67,0,1
+74,10392,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #849,19.85755,2023-04-13 07:32:01,system,86,72,0,1
+75,10371,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #848,20.380850000000002,2023-04-12 17:49:00,system,91,66,0,1
+76,10330,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #847,23.302866666666667,2023-04-12 07:31:51,system,75,89,0,1
+77,10288,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #846,29.859133333333332,2023-04-11 07:32:03,system,9,151,0,5
+78,10228,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #845,20.416800000000002,2023-04-10 07:35:26,system,74,89,0,2
+79,10216,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #844,22.775016666666666,2023-04-09 07:31:29,system,77,88,0,0
+80,10195,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #843,21.845233333333333,2023-04-08 07:31:55,system,73,90,0,2
+81,10141,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #842,22.501050000000003,2023-04-07 07:31:51,system,73,91,0,1
+82,10101,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #840,19.945433333333334,2023-04-06 07:31:55,system,76,87,0,2
+83,10062,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #839,21.390083333333333,2023-04-05 07:32:13,system,73,91,0,1
+84,10033,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #838,22.820866666666667,2023-04-04 07:31:53,system,77,85,0,3
+85,9985,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #836,29.450866666666666,2023-04-03 07:31:41,system,0,165,0,0
+86,9974,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #835,28.1719,2023-04-02 07:31:25,system,5,160,0,0
+87,9964,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #834,21.99158333333333,2023-04-01 07:31:52,system,75,88,0,2
+88,9930,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #833,23.63791666666667,2023-03-31 07:32:49,system,73,90,0,2
+89,9892,WMS: Web,KazanExpress/ke-auto-tests - Run WMS Tests #test #832,20.9963,2023-03-30 07:33:02,system,58,85,0,1
+90,10872,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1288,7.22525,2023-04-25 10:08:08,system,184,12,3,0
+91,10812,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1285,2.19305,2023-04-24 09:36:13,system,184,12,3,0
+92,10803,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1284,29.293083333333335,2023-04-23 05:00:45,system,178,17,3,1
+93,10793,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1283,34.45526666666667,2023-04-22 04:53:08,system,185,11,3,0
+94,10782,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1282,32.800066666666666,2023-04-21 04:52:46,system,180,16,3,0
+95,10770,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1281,30.16385,2023-04-20 17:35:48,system,184,12,3,0
+96,10718,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1280,29.8472,2023-04-20 04:51:53,system,176,18,3,0
+97,10700,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1279,10.481050000000002,2023-04-19 18:27:55,system,175,21,3,0
+98,10695,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1278,10.131,2023-04-19 17:22:05,system,173,22,3,1
+99,10692,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1277,9.599016666666667,2023-04-19 16:33:56,system,176,20,3,0
+100,10661,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1276,10.403250000000002,2023-04-19 04:56:18,system,168,21,3,0
+101,10617,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1274,33.0606,2023-04-18 04:51:39,system,154,35,3,0
+102,10570,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1273,33.60098333333333,2023-04-17 10:56:07,system,177,12,3,0
+103,10553,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1272,31.175766666666668,2023-04-17 04:53:29,system,174,14,3,0
+104,10547,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1271,32.262,2023-04-16 18:06:10,system,173,16,3,0
+105,10540,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1270,32.02311666666667,2023-04-16 04:58:29,system,172,15,3,1
+106,10529,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1269,32.71061666666667,2023-04-15 04:53:03,system,170,17,3,1
+107,10520,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1268,31.217049999999997,2023-04-14 18:18:44,system,168,20,3,1
+108,10488,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1266,39.997899999999994,2023-04-14 13:43:04,system,179,9,3,0
+109,10484,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1264,1.22615,2023-04-14 12:25:16,system,173,16,3,0
+110,10468,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1262,2.0919666666666665,2023-04-14 09:34:21,system,169,18,3,1
+111,10388,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1261,32.092616666666665,2023-04-13 04:51:49,system,175,12,3,0
+112,10326,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1259,6.3222499999999995,2023-04-12 09:28:50,system,172,27,3,1
+113,10283,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1258,32.82201666666666,2023-04-11 04:51:55,system,171,15,3,2
+114,10224,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1255,2.7499,2023-04-10 15:18:43,system,167,21,3,0
+115,10213,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1254,29.114816666666666,2023-04-09 04:53:05,system,164,23,3,1
+116,10192,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1253,31.981366666666666,2023-04-08 04:48:35,system,163,24,3,1
+117,10137,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1252,9.500666666666666,2023-04-07 04:49:59,system,169,18,3,1
+118,10097,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1250,8.488016666666667,2023-04-06 04:52:11,system,172,16,3,0
+119,10059,ERP: Web,KazanExpress/ke-auto-tests - Run ERP Tests #test #1249,9.82035,2023-04-05 04:46:24,system,167,20,3,1
+120,10873,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #514,0.7745333333333334,2023-04-25 05:27:39,system,8,0,0,0
+121,10814,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #513,0.7765000000000001,2023-04-24 05:26:28,system,8,0,0,0
+122,10802,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #512,0.87515,2023-04-23 04:59:13,system,8,0,0,0
+123,10794,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #511,0.7748666666666666,2023-04-22 05:28:24,system,8,0,0,0
+124,10783,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #510,0.7088,2023-04-21 05:26:23,system,8,0,0,0
+125,10719,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #509,1.20775,2023-04-20 05:22:32,system,8,0,0,0
+126,10660,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #508,0.9587666666666668,2023-04-19 04:54:36,system,8,0,0,0
+127,10618,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #507,0.8738666666666667,2023-04-18 05:25:33,system,8,0,0,0
+128,10554,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #506,0.79685,2023-04-17 05:25:27,system,8,0,0,0
+129,10539,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #505,0.9414333333333332,2023-04-16 04:56:49,system,8,0,0,0
+130,10530,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #504,0.7927333333333333,2023-04-15 05:26:34,system,8,0,0,0
+131,10469,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #503,0.8411833333333333,2023-04-14 05:26:33,system,8,0,0,0
+132,10389,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #502,0.7808499999999999,2023-04-13 05:28:08,system,8,0,0,0
+133,10325,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #501,0.8413333333333333,2023-04-12 04:56:05,system,8,0,0,0
+134,10284,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #500,0.7888833333333333,2023-04-11 05:25:33,system,8,0,0,0
+135,10225,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #499,0.87475,2023-04-10 05:26:22,system,8,0,0,0
+136,10214,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #498,0.8082999999999999,2023-04-09 05:23:00,system,8,0,0,0
+137,10193,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #497,0.7754666666666666,2023-04-08 05:21:24,system,8,0,0,0
+138,10138,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #496,0.7742,2023-04-07 05:00:18,system,8,0,0,0
+139,10098,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #495,0.7415333333333333,2023-04-06 05:02:14,system,8,0,0,0
+140,10060,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #494,0.7405333333333334,2023-04-05 04:57:03,system,8,0,0,0
+141,10030,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #493,0.8865333333333333,2023-04-04 04:54:17,system,8,0,0,0
+142,9998,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #492,0.8750833333333333,2023-04-03 11:59:07,system,8,0,0,0
+143,9982,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #491,1.7737833333333335,2023-04-03 05:32:59,system,0,8,0,0
+144,9972,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #490,1.7402000000000002,2023-04-02 05:39:10,system,0,8,0,0
+145,9961,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #489,0.8752666666666666,2023-04-01 04:53:15,system,8,0,0,0
+146,9928,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #488,0.741,2023-03-31 05:07:36,system,8,0,0,0
+147,9889,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #487,0.8747666666666666,2023-03-30 04:56:37,system,8,0,0,0
+148,9849,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #486,0.7738833333333334,2023-03-29 05:18:51,system,8,0,0,0
+149,9813,Admin panel,KazanExpress/ke-auto-tests - Run Admin Tests #test #485,0.87515,2023-03-28 08:19:30,system,8,0,0,0
+150,10874,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #295,0.7091333333333334,2023-04-25 05:29:05,system,1,0,0,0
+151,10815,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #294,0.6268999999999999,2023-04-24 05:27:58,system,1,0,0,0
+152,10804,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #293,0.7413666666666666,2023-04-23 05:30:57,system,1,0,0,0
+153,10795,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #292,0.7080666666666667,2023-04-22 05:29:55,system,1,0,0,0
+154,10784,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #291,0.7081333333333333,2023-04-21 05:27:44,system,1,0,0,0
+155,10720,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #290,1.0067833333333334,2023-04-20 05:24:29,system,1,0,0,0
+156,10662,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #289,1.3085166666666666,2023-04-19 05:07:30,system,0,1,0,0
+157,10619,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #288,0.6747166666666666,2023-04-18 05:27:03,system,1,0,0,0
+158,10555,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #287,0.7408666666666667,2023-04-17 05:26:58,system,1,0,0,0
+159,10541,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #286,0.7403666666666666,2023-04-16 05:31:20,system,1,0,0,0
+160,10531,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #285,0.72105,2023-04-15 05:28:02,system,1,0,0,0
+161,10470,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #284,0.6748666666666666,2023-04-14 05:28:44,system,1,0,0,0
+162,10390,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #283,0.6744333333333333,2023-04-13 05:29:32,system,1,0,0,0
+163,10327,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #282,0.7841166666666666,2023-04-12 05:28:10,system,1,0,0,0
+164,10285,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #281,0.9419166666666666,2023-04-11 05:27:01,system,1,0,0,0
+165,10226,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #280,0.7412833333333333,2023-04-10 05:27:57,system,1,0,0,0
+166,10215,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #279,1.2414999999999998,2023-04-09 05:24:31,system,0,1,0,0
+167,10194,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #278,0.7077666666666667,2023-04-08 05:26:12,system,1,0,0,0
+168,10139,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #277,0.70805,2023-04-07 05:01:50,system,1,0,0,0
+169,10099,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #276,0.70755,2023-04-06 05:03:41,system,1,0,0,0
+170,10061,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #275,0.6753,2023-04-05 04:58:28,system,1,0,0,0
+171,10032,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #274,0.7407666666666667,2023-04-04 05:14:25,system,1,0,0,0
+172,9983,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #273,1.2083833333333334,2023-04-03 05:35:29,system,0,1,0,0
+173,9973,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #272,1.2406499999999998,2023-04-02 05:41:35,system,0,1,0,0
+174,9963,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #271,0.6745666666666666,2023-04-01 05:03:57,system,1,0,0,0
+175,9929,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #270,1.1403,2023-03-31 05:09:04,system,0,1,0,0
+176,9891,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #269,0.7869499999999999,2023-03-30 05:14:54,system,1,0,0,0
+177,9850,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #268,0.7414333333333333,2023-03-29 05:20:18,system,1,0,0,0
+178,9817,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #267,0.6753833333333333,2023-03-28 08:38:31,system,1,0,0,0
+179,9770,Dshops,KazanExpress/ke-auto-tests - Run Dshops Tests #test #266,0.6318333333333332,2023-03-27 05:07:19,system,1,0,0,0
+180,8807,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #100,15.784833333333333,2023-02-21 17:17:15,system,13,11,246,0
+181,8772,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #98,15.751816666666667,2023-02-21 01:04:33,system,13,11,247,0
+182,8731,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #97,15.571433333333333,2023-02-20 01:04:47,system,13,11,247,0
+183,8720,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #96,15.547949999999998,2023-02-19 01:04:38,system,13,11,246,0
+184,8711,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #95,15.624583333333334,2023-02-18 01:04:35,system,13,11,245,0
+185,8673,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #94,15.469566666666667,2023-02-17 01:04:41,system,13,11,247,0
+186,8647,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #93,15.4511,2023-02-16 01:04:35,system,13,11,246,0
+187,8602,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #92,9.3296,2023-02-15 01:04:46,system,19,5,247,0
+188,8561,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #91,10.367750000000001,2023-02-14 01:04:44,system,18,6,247,0
+189,8519,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #90,9.176266666666667,2023-02-13 01:04:35,system,19,5,247,0
+190,8510,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #89,9.28885,2023-02-12 01:04:30,system,19,5,245,0
+191,8501,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #88,11.016383333333332,2023-02-11 01:04:43,system,17,7,247,0
+192,8468,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #87,9.169416666666667,2023-02-10 01:04:48,system,19,5,246,0
+193,8441,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #86,9.203283333333333,2023-02-09 01:04:33,system,19,5,247,0
+194,8402,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #85,9.122433333333333,2023-02-08 01:04:55,system,19,5,247,0
+195,8354,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #84,9.2032,2023-02-07 01:04:30,system,19,5,246,0
+196,8320,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #83,9.1549,2023-02-06 01:04:27,system,19,5,245,0
+197,8310,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #82,9.57085,2023-02-05 01:04:39,system,19,5,247,0
+198,8301,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #81,9.255933333333333,2023-02-04 01:04:36,system,19,5,245,0
+199,8269,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #80,9.235433333333333,2023-02-03 01:04:42,system,19,5,247,0
+200,8237,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #79,9.153233333333333,2023-02-02 01:04:45,system,19,5,245,0
+201,8180,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #78,9.091616666666665,2023-02-01 01:04:28,system,19,5,247,0
+202,8126,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #77,9.235966666666666,2023-01-31 01:04:45,system,19,5,247,0
+203,8088,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #76,9.258283333333333,2023-01-30 01:04:44,system,20,4,247,0
+204,8078,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #75,11.211583333333333,2023-01-29 01:04:37,system,18,6,247,0
+205,8067,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #74,9.176733333333335,2023-01-28 01:04:44,system,20,4,246,0
+206,8012,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #73,9.343483333333333,2023-01-27 01:04:45,system,20,4,247,0
+207,7979,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #72,9.189766666666666,2023-01-26 01:06:23,system,19,5,247,0
+208,7949,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #71,9.171933333333333,2023-01-25 01:04:25,system,19,5,247,0
+209,7911,Customers: Web Uzum,KazanExpress/uz-auto-tests - Run Customers Tests #test #70,9.066333333333334,2023-01-24 01:04:37,system,20,4,247,0
+210,8745,Sellers: Web Uzum Archive ,KazanExpress/uz-auto-tests - Run Sellers Tests #test #13,33.79781666666666,2023-02-20 10:17:16,system,8,114,1,9
+211,8535,Sellers: Web Uzum Archive ,KazanExpress/uz-auto-tests - Run Sellers Tests #test #12,34.814150000000005,2023-02-13 10:14:47,system,9,108,1,14
+212,8332,Sellers: Web Uzum Archive ,KazanExpress/uz-auto-tests - Run Sellers Tests #test #11,32.86613333333334,2023-02-06 10:15:39,system,9,114,1,8
+213,8106,Sellers: Web Uzum Archive ,KazanExpress/uz-auto-tests - Run Sellers Tests #test #10,36.27596666666667,2023-01-30 10:14:52,system,9,114,1,8
+214,7867,Sellers: Web Uzum Archive ,KazanExpress/uz-auto-tests - Run Sellers Tests #test #9,35.33723333333333,2023-01-23 10:19:17,system,9,107,1,15
+215,7634,Sellers: Web Uzum Archive ,KazanExpress/uz-auto-tests - Run Sellers Tests #test #8,38.65506666666667,2023-01-16 10:15:52,system,9,113,1,9
+216,7368,Sellers: Web Uzum Archive ,KazanExpress/uz-auto-tests - Run Sellers Tests #test #7,34.67086666666667,2023-01-09 10:19:35,system,8,112,1,11
+217,7283,Sellers: Web Uzum Archive ,KazanExpress/uz-auto-tests - Run Sellers Tests #test #6,34.8971,2023-01-02 10:16:54,system,9,115,1,7
+218,7073,Sellers: Web Uzum Archive ,KazanExpress/uz-auto-tests - Run Sellers Tests #test #5,10080.086783333334,2022-12-26 10:10:57,system,0,0,0,0
+219,6868,Sellers: Web Uzum Archive ,KazanExpress/uz-auto-tests - Run Sellers Tests #test #4,35.361666666666665,2022-12-19 10:10:52,system,8,116,1,7
+220,6623,Sellers: Web Uzum Archive ,KazanExpress/uz-auto-tests - Run Sellers Tests #test #3,35.11966666666667,2022-12-12 10:03:53,system,9,115,1,7
+221,6340,Sellers: Web Uzum Archive ,KazanExpress/uz-auto-tests - Run Sellers Tests #test #2,37.9089,2022-12-05 10:31:55,system,8,107,1,16
+222,6140,Sellers: Web Uzum Archive ,KazanExpress/uz-auto-tests - Run Sellers Tests #test #1,10080.223483333333,2022-11-28 10:01:19,system,9,65,1,2
+223,8804,ERP Uzum: Web,KazanExpress/uz-auto-tests - Run ERP Tests #test #21,14.773783333333334,2023-02-21 16:49:13,system,10,140,1,0
+224,8742,ERP Uzum: Web,KazanExpress/uz-auto-tests - Run ERP Tests #test #20,13.600599999999998,2023-02-20 10:03:12,system,10,140,1,0
+225,8534,ERP Uzum: Web,KazanExpress/uz-auto-tests - Run ERP Tests #test #19,11.01515,2023-02-13 10:03:18,system,10,140,1,0
+226,8331,ERP Uzum: Web,KazanExpress/uz-auto-tests - Run ERP Tests #test #18,12.098566666666667,2023-02-06 10:03:04,system,10,140,1,0
+227,8104,ERP Uzum: Web,KazanExpress/uz-auto-tests - Run ERP Tests #test #17,11.289766666666667,2023-01-30 10:03:04,system,10,140,1,0
+228,7865,ERP Uzum: Web,KazanExpress/uz-auto-tests - Run ERP Tests #test #16,15.618483333333334,2023-01-23 10:03:09,system,10,140,1,0
+229,7633,ERP Uzum: Web,KazanExpress/uz-auto-tests - Run ERP Tests #test #15,9.550383333333334,2023-01-16 10:05:50,system,0,150,1,0
+230,7367,ERP Uzum: Web,KazanExpress/uz-auto-tests - Run ERP Tests #test #14,16.106733333333334,2023-01-09 10:02:59,system,0,150,1,0
+231,7282,ERP Uzum: Web,KazanExpress/uz-auto-tests - Run ERP Tests #test #13,13.231416666666666,2023-01-02 10:03:11,system,0,150,1,0
+232,7072,ERP Uzum: Web,KazanExpress/uz-auto-tests - Run ERP Tests #test #12,7.302316666666667,2022-12-26 10:03:10,system,11,139,1,0
+233,6867,ERP Uzum: Web,KazanExpress/uz-auto-tests - Run ERP Tests #test #11,7.4665,2022-12-19 10:02:55,system,8,142,1,0
