@@ -19,7 +19,7 @@ def getLaunches(AllureProject, list):
     yesterday = date.today() - timedelta(days = 1)
     yesterdayMiliSeconds = datetime.strptime(yesterday.strftime('%Y-%m-%d'), '%Y-%m-%d').timestamp() * 1000
 
-    response = requests.get('https://allure.kznexpress.ru/api/rs/launch?projectId=' + str(AllureProject['ID']) + '&search=W3siaWQiOiJjaSIsInR5cGUiOiJib29sZWFuIiwidmFsdWUiOiJ0cnVlIn1d&size=5&sort=created_date%2CDESC', headers={'Authorization': 'Api-Token ' + apiToken})
+    response = requests.get('https://allure.kznexpress.ru/api/rs/launch?projectId=' + str(AllureProject['ID']) + '&search=W3siaWQiOiJjaSIsInR5cGUiOiJib29sZWFuIiwidmFsdWUiOiJ0cnVlIn1d&size=30&sort=created_date%2CDESC', headers={'Authorization': 'Api-Token ' + apiToken})
     launches = json.loads(response.text)
 
     for launch in launches['content']:
